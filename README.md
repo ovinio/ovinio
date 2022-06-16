@@ -1,4 +1,4 @@
-- Oi, eu sou o Vini
-- Eu sou Triatleta 
-- E eu sou ator também 
-- 💻 🖱️E eu tenho muito interesse em aprender mais sobre o mundo da programação -->
+- Oi, eu o Vini  :D
+- 🏃‍♂️🚴‍♂️🏊‍♂️Eu sou Triatleta
+- 🎭E eu sou ator também
+- 💻 🖱️E eu tenho muito interesse em aprender mais sobre o mundo da programação 
